@@ -1,0 +1,17 @@
+S->aA
+S->bQ
+A->aA
+A->bB
+A->b
+B->bD
+B->aQ
+Q->aQ
+Q->bD
+Q->b
+D->bB
+D->aA
+E->aB
+E->bF
+F->bD
+F->aE
+F->b
