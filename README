@@ -1,5 +1,0 @@
-Visual Studio project under windows platform. 
-A program to generate a lexical analyzer resembling "lex".
-Take a set of regular productions, turn into non-deterministic finite 
-automata (NFA), then convert to derterministic finite automata (DFA), 
-and minimize it.
